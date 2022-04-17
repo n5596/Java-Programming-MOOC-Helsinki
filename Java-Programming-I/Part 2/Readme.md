@@ -40,5 +40,5 @@
 30. Smallest 
 31. Greatest
 32. Averaging
-33. Starsign
-34. Advanced astrology
+33. Starsign (**)
+34. Advanced astrology (**)
