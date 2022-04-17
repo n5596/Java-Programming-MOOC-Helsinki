@@ -16,6 +16,10 @@
   - Methods and dividing the program into smaller parts
   
 #### Part 3
+  - Lists
+  - Arrays
+  - Strings
+
 #### Part 4
 #### Part 5
 #### Part 6
