@@ -21,6 +21,23 @@
   - Strings
 
 #### Part 4
+  - Introduction to object oriented programming
+  - Objects in a list
+  - Files and reading data
+  
 #### Part 5
+  - Learning object oriented programming
+  - Removing repetitive code (overloading methods and constructors)
+  - Primitive and reference variables
+  - Objects and references
+
 #### Part 6
+  - Objects on a list and a list as part of an object
+  - Separating the user interface from program logic
+  - Introduction to testing
+  - Complex programs
+
 #### Part 7
+  - Programming paradigms
+  - Algorithms
+  - Larger programming exercises
