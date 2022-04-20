@@ -19,14 +19,14 @@
 ## Objects in a list
   17. Items
   18. Personal information
-  19. Television programs
+  19. Television programs (One file uploaded: Main)
   20. Books
 
 ## Files and reading data
   21. Number of strings
   22. Cubes
-  23. Creating a new file
-  24. Printing a file
+  23. Creating a new file (No file uploaded)
+  24. Printing a file (**)
   25. Printing a specified file
   26. Guest list from a file
   27. Is it in the file
