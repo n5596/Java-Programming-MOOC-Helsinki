@@ -1,37 +1,30 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author naila
- */
 public class Book {
-    private String author;
-    private String title;
-    private int page_count;
-    
-    public Book(String author, String name, int pages){
-        this.author = author;
-        this.title = name;
-        this.page_count = pages;
+
+    private String name;
+    private int publicationYear;
+
+    public Book(String name, int publicationYear) {
+        this.name = name;
+        this.publicationYear = publicationYear;
     }
-    
-    public String getAuthor(){
-        return this.author;
+
+    public String getName() {
+        return name;
     }
-    
-    public String getName(){
-        return this.title;
+
+    public int getPublicationYear() {
+        return publicationYear;
     }
-    
-    public int getPages(){
-        return this.page_count;
-    }
-    
-    public String toString(){
-        return this.author + ", "+ this.title + ", "+ this.page_count + " pages";
+
+    public boolean equals(Object compared){
+        if (this.getClass() != compared.getClass()){
+            return false;
+        }
+        Book book = (Book) compared;
+        if (this.name.equals(book.name) && this.publicationYear == book.publicationYear){
+            return true;
+        }
+        return false;
     }
 }
