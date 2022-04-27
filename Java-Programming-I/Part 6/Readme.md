@@ -9,7 +9,7 @@
   8. Cargo hold
   
 ## Separating the user interface from program logic
-  9. Simple dictionary
+  9. Simple dictionary (**)
   10. To do list
   11. Averages
   12. Joke manager
