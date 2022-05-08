@@ -15,6 +15,6 @@
   12. Joke manager
  
 ## Introduction to testing
-  13. Exercises
+  13. Exercises (**)
 
 ## Complex programs
