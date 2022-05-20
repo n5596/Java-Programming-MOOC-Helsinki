@@ -9,5 +9,5 @@
 
 ## Larger programming exercises
   6. Grade statistics
-  7. Recipe search
+  7. Recipe search (**)
   8. Big year
