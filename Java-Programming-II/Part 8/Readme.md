@@ -19,6 +19,6 @@
 
 ## Grouping data using hash maps
   14. Dictionary of many translations
-  15. Storage facility
+  15. Storage facility (**)
 
 ## Fast data fetching and grouping information
