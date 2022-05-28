@@ -1,7 +1,7 @@
 ## Class inheritance
   1. ABC
   2. Person and subclasses
-  3. Warehousing
+  3. Warehousing (**)
   4. Different kind of boxes
 
 ## Interfaces
