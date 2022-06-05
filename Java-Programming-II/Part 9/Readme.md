@@ -14,4 +14,4 @@
  
 ## Object polymorphism
   11. Herds
-  12. Animals
+  12. Animals (**)
