@@ -14,7 +14,7 @@ public class BoxWithMaxWeight extends Box{
     private int capacity;
     private ArrayList<Item> items;
     
-    public BoxWithMaxWeight(int capacity){
+    public BoxWithMaxWeight(int capacity){O
         super();
         this.items = new ArrayList<>();
         this.capacity = capacity;
