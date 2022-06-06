@@ -1,8 +1,8 @@
 ## Handling collections as streams
 1. Average of numbers
-2. Average of selected numbers
-3. Positive numbers
-4. Divisible
+2. Average of selected numbers (**)
+3. Positive numbers (**)
+4. Divisible (**)
 5. Printing user input
 6. Limited numbers
 7. Unique last names
