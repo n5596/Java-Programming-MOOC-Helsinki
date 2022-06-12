@@ -13,8 +13,8 @@
 ## The comparable interface
 11. Wage order
 12. Students on alphabetical order
-13. Literacy comparison
-14. Literature
+13. Literacy comparison (**)
+14. Literature (**)
 
 ## Other useful techniques
 15. Regular expressions
