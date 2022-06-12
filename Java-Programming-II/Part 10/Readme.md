@@ -5,10 +5,10 @@
 4. Divisible (**)
 5. Printing user input
 6. Limited numbers
-7. Unique last names
-8. Weighting 
+7. Unique last names (**)
+8. Weighting (**)
 9. Reading files per line
-10. Books from file
+10. Books from file (**)
 
 ## The comparable interface
 11. Wage order
