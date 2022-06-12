@@ -17,6 +17,6 @@
 14. Literature (**)
 
 ## Other useful techniques
-15. Regular expressions
-16. Enum and iterator
-17. Sort them cards!
+15. Regular expressions (**)
+16. Enum and iterator (**)
+17. Sort them cards! (**)
