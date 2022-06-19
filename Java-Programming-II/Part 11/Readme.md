@@ -10,7 +10,7 @@
 ## Packages
 8. First packages
 9. Three packages
-10. Flight control
+10. Flight control (**)
 
 ## Exceptions
 11. Validating parameters
