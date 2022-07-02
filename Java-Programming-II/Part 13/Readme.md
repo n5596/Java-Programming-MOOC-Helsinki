@@ -12,7 +12,7 @@
 7. Text statistics, part II (**)
 
 ## Application's launch parameters
-8. User's title
+8. User's title (**)
 
 ## Multiple views
 9. Multiple views
