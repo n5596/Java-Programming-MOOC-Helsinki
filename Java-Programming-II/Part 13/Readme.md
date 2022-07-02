@@ -8,8 +8,8 @@
 5. Text statistics (**)
 
 ## Event handling
-6. Notifier
-7. Text statistics, part II
+6. Notifier (**)
+7. Text statistics, part II (**)
 
 ## Application's launch parameters
 8. User's title
