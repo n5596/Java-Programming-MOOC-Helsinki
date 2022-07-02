@@ -4,8 +4,8 @@
 ## UI components and their layout
 2. Button and label
 3. Button and TextField
-4. BorderPane
-5. Text statistics
+4. BorderPane (**)
+5. Text statistics (**)
 
 ## Event handling
 6. Notifier
