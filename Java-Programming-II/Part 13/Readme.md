@@ -16,7 +16,7 @@
 
 ## Multiple views
 9. Multiple views
-10. Greeter
-11. Joke
-12. Vocabulary practice
-13. Tic tac toe
+10. Greeter 
+11. Joke (**)
+12. Vocabulary practice (**)
+13. Tic tac toe (**)
