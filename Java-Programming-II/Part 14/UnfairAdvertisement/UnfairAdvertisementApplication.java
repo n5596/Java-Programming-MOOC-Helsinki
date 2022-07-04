@@ -13,7 +13,7 @@ public class UnfairAdvertisementApplication extends Application {
     @Override
     public void start(Stage window) {
         CategoryAxis xAxis = new CategoryAxis();
-        NumberAxis yAxis = new NumberAxis(75, 77.5, 0.1);
+        NumberAxis yAxis = new NumberAxis(75, 77.5, 0.1); // Changed the low value over here from 77 to 75
         yAxis.setTickLabelsVisible(false);
         yAxis.setLabel("Faster and Better!");
 
