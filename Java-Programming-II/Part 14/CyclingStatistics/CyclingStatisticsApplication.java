@@ -42,7 +42,7 @@ public class CyclingStatisticsApplication extends Application {
         yAxis.setLabel("Cyclists");
 
         
-        BarChart<String, Number> chart = new BarChart<>(xAxis, yAxis);
+        BarChart<String, Number> chart = new BarChart<>(xAxis, yAxis); // Just changed LineChart to BarChart
         chart.setLegendVisible(false);
 
         list.setOnMouseClicked((MouseEvent event) -> {
