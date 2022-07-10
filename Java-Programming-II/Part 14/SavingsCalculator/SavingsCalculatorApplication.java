@@ -26,6 +26,10 @@ public class SavingsCalculatorApplication extends Application{
         Slider s1 = new Slider();
         s1.setMin(25);
         s1.setMax(250);
+        s1.setSnapToTicks(true);
+        s1.setBlockIncrement(500);
+        s1.setShowTickMarks(true);
+        s1.setShowTickLabels(true);
         Label l2 = new Label();   
         b1.setRight(l2);
         b1.setCenter(s1);
@@ -36,6 +40,9 @@ public class SavingsCalculatorApplication extends Application{
         Slider s2 = new Slider();
         s2.setMin(0);
         s2.setMax(10);
+        s2.setMinorTickCount(10);
+        s2.setShowTickMarks(true);
+        s2.setShowTickLabels(true);
         Label l4 = new Label();
         b2.setRight(l4);
         b2.setCenter(s2);
