@@ -1,7 +1,7 @@
 ## Data visualization
 1. Shanghai
 2. Finnish parties
-3. Savings calculator (** All tests do not pass)
+3. Savings calculator (**)
 4. Unfair advertisement
 5. Cycling statistics
 
@@ -11,7 +11,7 @@
 8. Hurray
 
 ## Larger application: Asteroids
-9. Asteroids
+9. Asteroids (**)
 
 ## Maven and third-party libraries
 10. Database
