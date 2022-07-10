@@ -11,7 +11,7 @@
 8. Hurray
 
 ## Larger application: Asteroids
-9. Asteroids (**)
+9. Asteroids (** To do)
 
 ## Maven and third-party libraries
 10. Database
